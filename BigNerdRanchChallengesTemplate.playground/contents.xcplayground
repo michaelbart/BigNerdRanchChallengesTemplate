@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Table of Contents'/>
+        <page name='Getting Started'/>
+        <page name='Types, Constants, and Variables'/>
+        <page name='Conditionals'/>
+        <page name='Numbers'/>
+        <page name='Switch'/>
+        <page name='Loops'/>
+        <page name='Strings'/>
+        <page name='Optionals'/>
+        <page name='Arrays'/>
+        <page name='Dictionaries'/>
+        <page name='Sets'/>
+        <page name='Functions'/>
+        <page name='Closures'/>
+        <page name='Enumerations'/>
+        <page name='Structs and Classes'/>
+        <page name='Properties'/>
+        <page name='Initialization'/>
+        <page name='Protocols'/>
+        <page name='Error Handling'/>
+        <page name='Extensions'/>
+        <page name='Generics'/>
+        <page name='Protocol Extensions'/>
+        <page name='Memory Management and ARC'/>
+        <page name='Equatable and Comparable'/>
+    </pages>
+</playground>
